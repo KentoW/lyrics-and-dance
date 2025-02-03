@@ -1,0 +1,7 @@
+# A Data-Driven Method for Analyzing and Quantifying Lyrics-Dance Motion Relationships — Official PyTorch Implementation
+**A Data-Driven Method for Analyzing and Quantifying Lyrics-Dance Motion Relationships (NAACL2025)**
+
+Kento Watanabe,  Masataka Goto
+
+*Abstract: Dancing to music with lyrics is a popular form of expression. While it is generally accepted that there are relationships between lyrics and dance motions, previous studies have not explored these relationships. A major challenge is that the relationships between lyrics and dance motions are not constant throughout a song, but are instead localized to specific parts. To address this challenge, we hypothesize that lyrics and dance motions that co-occur across multiple songs are related. Based on this hypothesis, we propose a novel data-driven method to detect the parts of songs where meaningful relationships between lyrics and dance motions exist. We use clustering to transform lyrics and dance motions into symbols, enabling the calculation of co-occurrence frequencies and detection of significant correlations.The effectiveness of our method is validated by a dataset of time-synchronized lyrics and dance motions, which showed high correlation values for emotionally salient lyrics such as "love", which is expressed in heart-shaped motions. Furthermore, using our relationship detection method, we propose a method for retrieving dance motions from lyrics that outperforms previous text-to-motion retrieval methods, which focus on prose and non-dance motions.*
+
