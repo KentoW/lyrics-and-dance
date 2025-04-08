@@ -78,7 +78,6 @@ The results of the MRR will be included in the standard output and also in `expe
     booktitle    = {Proceedings of the 2025 Conference of the North American
                     Chapter of the Association for Computational Linguistics: 
                     Human Language Technologies, {NAACL} 2025},
-    pages        = {XXX--XXX},
     year         = {2025}
 }
 ```
